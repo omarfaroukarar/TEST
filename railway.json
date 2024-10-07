@@ -1,0 +1,11 @@
+{
+    "build": {
+      "env": {
+        "PORT": "8080"
+      }
+    },
+    "deploy": {
+      "command": "java -jar demo-0.0.1-SNAPSHOT.jar"
+    }
+  }
+  
